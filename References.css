@@ -1,0 +1,76 @@
+/* HTML element CSS Properties */
+:root {
+    /* Setting a base font size of 10px give us easier rem calculations
+        Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
+      */
+     display: block; /* CSS default value */
+     font-size: 16px;	
+     font-family: 'Calibri', sans-serif;
+     background: linen; /* #ffcc80 */
+   }
+   /* end of HTML element */
+
+*,
+*::before,
+*::after  {
+     box-sizing: border-box;
+   }
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: royalblue;
+    text-align: center;
+}
+
+table {
+    margin: 1rem auto;
+    background: white;
+    border: 2px solid #A8D0E6;
+    width: 650px;
+}
+
+thead {
+    padding-top: 1rem;
+    background-color: #F76C6C;
+}
+.topic-title {
+    padding: 0.25rem;
+    font-size: 1.75rem;
+}
+
+.subtitle {
+    padding: 0.25rem;
+    font-size: 1.15rem;
+}
+
+td {
+    border-top: 1px solid darkorchid;
+}
+
+.centered {
+    text-align: center;
+}
+
+.source {
+    width: 250px;
+    }
+
+.link {
+    padding: 0.5rem 1rem;
+}
+
+.link:hover {
+background: lightblue;
+transition: all .4s ease;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(0, 102, 204);
+}

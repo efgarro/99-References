@@ -1,0 +1,108 @@
+/*
+Notes:
+1- CSS has default values for some of the properties. For a listing, you can refer to 
+https://www.w3schools.com/cssref/css_default_values.asp. As a beginner and for clarity, I found it
+helpfull to repeat the values in the *.css file for each project. */ 
+
+
+@import "https://fonts.googleapis.com/css?family=Karla";
+
+
+
+/* HTML element CSS Properties */
+:root {
+ /* Setting a base font size of 10px give us easier rem calculations
+     Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
+   */
+  display: block; /* CSS default value */
+  font-size: 10px;	
+  background: linen; /* #ffcc80 */
+}
+/* end of HTML element */
+
+
+*,
+*::before,
+*::after  {
+  box-sizing: border-box;
+  /* The width and height properties (and min/max properties) includes content, padding and border */ 
+}
+
+/* Body element CSS Properties */
+body {
+  display: block; /* CSS default value */
+  margin: 0px; /* CSS default value is 8px */
+  background-color: lightblue;
+  border: 5px dashed green;
+}
+/* end of Body element */
+
+/* Header element CSS Properties */
+header {
+  display: block; /* CSS default value */
+  position: sticky;
+}  
+/* end of Header element */
+
+h2 {
+  margin-left: 2rem;
+  font-size: 1.5rem;
+}
+
+p   {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Form element CSS Properties */
+form {
+  display: block; 
+  margin-top: 0em;  /* CSS default value */
+  text-align: center;
+  padding: 0.25rem;
+  border: 3px dotted green;
+}
+/* end of Form element */
+
+/* Section element CSS Properties */
+section {
+  display: block; /* CSS default value */
+}
+/* end of Section element */
+
+footer {
+  display: block; /* CSS default value */
+}
+#main { 
+  display: flex;
+  width: 220px;
+  height: 300px;
+  box-sizing: border-box 	
+
+  
+  border: 1px solid black;
+  align-items: flex-start;
+}
+
+body {
+  margin: 0px;
+  background-color: lightblue;
+  border: 5px dashed green;
+}
+
+nav {
+  display: flex;
+  flex-direction: row column;
+}  
+
+
+
+body div {
+  display: block flex grid;
+  margin: 0px;
+  background-color: lightblue;
+  border: 5px dashed green;
+}

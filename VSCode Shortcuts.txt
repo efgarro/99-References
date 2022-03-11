@@ -1,0 +1,24 @@
+
+General
+
+Ctrl + Z                ; Undo   
+Ctrl + ,                ; open settings window
+Ctrl + Shift + .        ; find symbols
+or @ at Pallete     
+Ctrl + X                ; cut a line  (just have the cursor on that line)
+Ctrl + C                ; copy a line (just have the cursor on that line)
+Alt + arrows            ; move a line
+Alt + Shift + arrows    ; copy a line multiple times       
+Ctrl + /                ; Comment out a block of lines
+Ctrl + Shift + `        : Open new Terminal Window
+
+
+
+
+Multi-Cursor Editing    
+Ctrl + D                ; add Selection to next match
+Ctrl + U                ; cursor undo
+Ctrl + Shift + L        ; select all accurra   
+Alt + 'mouse click'     ; select at multiple locations
+Alt + Shift             ; Column / Box Selection Mode
+

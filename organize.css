@@ -1,0 +1,23 @@
+.card {
+    /* display */
+    display: grid;
+
+    /* positioning */
+    position: relative;
+    top: auto;
+    bottom: auto;
+
+    /* box model */
+    width: auto;
+    background-color: blue;
+
+    /* typography */
+    font-size: large;
+
+    /* transforms */
+    transform: none;
+
+    /* Misc  */
+    border-radius: 0em;
+    box-shadow: inset;
+}
