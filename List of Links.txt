@@ -1,14 +1,19 @@
-Web Dev https://www.namecheap.com/domains/registration/results/?domain=codeshop
+Web Dev 
+https://www.namecheap.com/domains/registration/results/?domain=codeshop
 https://www.educative.io/blog/bash-shell-command-cheat-sheet
 https://www.shellscript.sh/variables1.html
 https://www.youtube.com/watch?v=EqzUcMzfV1w (Web Deb 2022 / Traversy Media)
-Design https://visme.co/blog/website-color-schemes/
+
+Design 
+https://visme.co/blog/website-color-schemes/
 https://northwestmediacollective.com/best-image-size-for-websites-2021-the-ultimate-guide/
 https://99designs.com/designers/search?categories[]=mobile-app-design
 https://www.figma.com/files/recent?fuid=1077565415893038947 Figma Tutorial
 Paint.net https://www.youtube.com/watch?v=voWcUAw6OCY
 https://www.youtube.com/watch?v=kbZejnPXyLM https://ui-patterns.com/patterns
-Font Awesome CSS https://meyerweb.com/eric/tools/css/reset/index.html
+Font Awesome 
+CSS 
+https://meyerweb.com/eric/tools/css/reset/index.html
 https://yoksel.github.io/grid-cheatsheet/#section-display Kevin Navbar
 https://www.youtube.com/watch?v=HbBMp6yUXO0
 https://www.stefanjudis.com/today-i-learned/css-grid-can-be-used-to-stack-elements/
